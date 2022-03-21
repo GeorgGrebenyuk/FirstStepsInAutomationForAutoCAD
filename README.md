@@ -10,3 +10,5 @@ Small guide for AutoCAD programming (in Russian)
 - ObjectARX
 - COM
 - Dynamo (for Civil 3D)
+
+Ресурсы для изучения см. [в этом файле](/Resources.md)
